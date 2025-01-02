@@ -21,9 +21,13 @@ h1 {
 a {
     color: rgb(226, 224, 213);
     font-size: 25px;
-    background-color: rgb(246, 0, 0);
     padding: 20px;
+}
 
-    
+
+button {
+   background-color: red;
+   padding: 15px;
+   border-style: hidden;
 }
 
