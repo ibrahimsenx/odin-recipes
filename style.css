@@ -1,0 +1,29 @@
+*,
+*::before
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+    margin: 20px;
+    font-family: serif;  
+
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+   
+}
+
+a {
+    color: rgb(226, 224, 213);
+    font-size: 25px;
+    background-color: rgb(246, 0, 0);
+    padding: 20px;
+
+    
+}
+
